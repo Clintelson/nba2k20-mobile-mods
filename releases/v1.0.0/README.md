@@ -16,8 +16,10 @@ First release of NBA 2K20 Mobile Mods.
 
 ## Install
 
-Add the tested installation steps here before publishing. Include any backup or restore steps users need.
+1. Back up your existing game data.
+2. Install `NBA2K20-Mobile-Mod-v1.0.0.apk`.
+3. Open the game and check the mods listed above.
 
 ## Files
 
-Add this release's mod files to this folder. Do not include the original game APK or game assets you do not have permission to redistribute.
+- `apk/NBA2K20-Mobile-Mod-v1.0.0.apk` — modded game package containing the listed changes.
