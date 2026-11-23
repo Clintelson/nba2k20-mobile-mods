@@ -11,8 +11,8 @@ First release of NBA 2K20 Mobile Mods.
 
 ## Compatibility
 
-- **Game version:** To be filled in after testing
-- **Device/OS:** To be filled in if relevant
+- **Game version:** 98.0.2
+- **Device/OS:** Android only
 
 ## Install
 
