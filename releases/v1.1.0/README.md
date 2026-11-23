@@ -69,7 +69,8 @@ B and C only add the roster. For the gameplay mods too, also install the APK (A)
 
 ## Notes
 
-- Existing MyCAREER and saved-league files keep the roster they were created with. Start a new career, or use Play Now, to get the 2026-27 rosters.
+- **Existing MyCAREER and saved-league files keep the roster they were created with.** Start a new career, or use Play Now, to get the 2026-27 rosters.
+- **Headless players (white body) or bald, generic faces?** That save was started on an earlier test roster. Play Now will look correct; delete that career or league and start a new one to fix it.
 - Starting lineups and minutes are approximate.
 
 ## Files
