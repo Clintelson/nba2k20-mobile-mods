@@ -17,6 +17,6 @@ First release. Planned contents:
 - Unlimited money
 - All badges unlocked
 
-**Supported game version:** Add the exact NBA 2K20 Mobile version tested before publishing.
+**Supported game version:** Android 9.0 or higher is recommended, along with at least 4 GB of RAM and 5 GB of free storage.
 
 See [`releases/v1.0.0/README.md`](releases/v1.0.0/README.md) for installation notes and compatibility details.
