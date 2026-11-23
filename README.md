@@ -8,6 +8,12 @@ Open [`releases/`](releases/) and choose a version folder. Each folder contains 
 
 ## Releases
 
+### v1.1.0
+
+2026-27 NBA roster: 30 teams, 518 players, 363 new player profiles with complete in-game models. Includes all v1.0.0 mods. Three ways to install: the APK (easiest; replacing the original game starts you fresh), phone only, or with a computer (both keep your saves).
+
+See [`releases/v1.1.0/README.md`](releases/v1.1.0/README.md).
+
 ### v1.0.0
 
 First release. Planned contents:
